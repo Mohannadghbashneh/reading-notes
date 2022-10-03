@@ -25,6 +25,7 @@ Moreover, despite the fact that the subject of the video appears to be straightf
 ---
 >### Sources : 
 https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+
 https://www.codenewbie.org/basecs/8
 
 https://www.youtube.com/watch?v=_AEJHKGk9ns&ab_channel=PyCon2015
