@@ -18,3 +18,4 @@ This site is used to find out what was read during the lessons in the *course*
 | ---   |   --- |
 |  D01  |    [class 1](401/read01.md)   |
 |  D02  |    [class 2](401/read02.md)   |
+|  D03  |    [class 3](401/read03.md)   |
