@@ -20,3 +20,4 @@ This site is used to find out what was read during the lessons in the *course*
 |  D02  |    [class 2](401/read02.md)   |
 |  D03  |    [class 3](401/read03.md)   |
 |  D04  |    [class 4](401/read04.md)   |
+|  D05  |    [class 5](401/read05.md)   |
