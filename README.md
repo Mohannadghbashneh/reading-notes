@@ -23,3 +23,5 @@ This site is used to find out what was read during the lessons in the *course*
 |  D05  |    [class 5](401/read05.md)   |
 |  D06  |    [class 6](401/read06.md)   |
 |  D07  |    [class 7](401/read07.md)   |
+|  D08  |    [class 8](401/read08.md)   |
+|  D09  |    [class 9](401/read09.md)   |
