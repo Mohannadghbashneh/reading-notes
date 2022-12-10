@@ -37,6 +37,8 @@ This site is used to find out what was read during the lessons in the *course*
 |  D19  |    [class 19](401/read19.md)  |
 |  D20  |    [class 20](401/read20.md)  |
 |  D21  |    [class 21](401/read21.md)  |
+|  D22  |    [class 22](401/read22.md)  |
+|  D23  |    [class 23](401/read23.md)  |
 
 
 
