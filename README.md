@@ -43,6 +43,7 @@ This site is used to find out what was read during the lessons in the *course*
 |  D25  |    [class 25](401/read25.md)  |
 |  D26  |    [class 26](401/read26.md)  |
 |  D27  |    [class 27](401/read27.md)  |
+|  D28  |    [class 28](401/read28.md)  |
 
 
 
